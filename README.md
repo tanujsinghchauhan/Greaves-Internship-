@@ -35,7 +35,7 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/tanujsinghchauhan/Greaves-Internship-
-cd Greaves-Internship
+cd Greaves-Internship-
 npm install
 npm start
 ```
